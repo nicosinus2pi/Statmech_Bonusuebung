@@ -1,0 +1,39 @@
+Teil 2a: Ising-Modell |M| vs. Temperatur
+
+L = 20
+  T = 1.50, |⟨M⟩| = 0.986466 +/- 0.000102
+  T = 2.12, |⟨M⟩| = 0.856111 +/- 0.000689
+  T = 2.75, |⟨M⟩| = 0.179534 +/- 0.001315
+  T = 3.38, |⟨M⟩| = 0.103320 +/- 0.000788
+  T = 4.00, |⟨M⟩| = 0.082956 +/- 0.000629
+
+L = 30
+  T = 1.50, |⟨M⟩| = 0.982231 +/- 0.000475
+  T = 2.12, |⟨M⟩| = 0.854596 +/- 0.000506
+  T = 2.75, |⟨M⟩| = 0.124683 +/- 0.000911
+  T = 3.38, |⟨M⟩| = 0.070272 +/- 0.000526
+  T = 4.00, |⟨M⟩| = 0.055379 +/- 0.000417
+
+Teil 2b: Visualisierung Gleichgewichtskonfigurationen
+Konfigurationen gespeichert für T < T_c, T ≈ T_c und T > T_c
+
+Teil 2c: Ising-Modell Suszeptibilität vs. Temperatur
+Berechne T = 1.50 (1/30)...
+T = 1.50, χ = 0.000030 +/- 0.000088
+Berechne T = 1.78 (5/30)...
+T = 1.78, χ = 0.000111 +/- 0.000151
+Berechne T = 2.12 (10/30)...
+T = 2.12, χ = 0.002782 +/- 0.000527
+Berechne T = 2.47 (15/30)...
+T = 2.47, χ = 0.031850 +/- 0.000385
+Berechne T = 2.81 (20/30)...
+T = 2.81, χ = 0.006570 +/- 0.000094
+Berechne T = 3.16 (25/30)...
+T = 3.16, χ = 0.003090 +/- 0.000045
+Berechne T = 3.50 (30/30)...
+T = 3.50, χ = 0.001984 +/- 0.000028
+
+Gesamt berechnet: 30/30 Werte
+
+Teil 2c abgeschlossen. χ-Bereich: 0.000030 bis 0.085698
+Plottete 30 von 30 Werten
